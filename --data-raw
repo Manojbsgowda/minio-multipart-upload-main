@@ -1,0 +1,7 @@
+--_curl_--
+>     "filename": "b.jpg"
+--_curl_--
+>     "partCount": 2
+--_curl_--
+>     "contentType": "image/jpeg"
+> 
